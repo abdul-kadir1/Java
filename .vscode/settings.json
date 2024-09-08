@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.onBuildFailureProceed": true,
+    "editor.acceptSuggestionOnEnter": "off",
+    "html.autoClosingTags": true,
+    "editor.quickSuggestionsDelay": 1000,
+    "workbench.settings.useSplitJSON": false
+}
